@@ -1,0 +1,82 @@
+<controls>
+    <SliderFloat_Near_Th>
+        <name>Near Th</name>
+        <value>300</value>
+    </SliderFloat_Near_Th>
+    <SliderFloat_Far_Th>
+        <name>Far Th</name>
+        <value>1250</value>
+    </SliderFloat_Far_Th>
+    <SliderFloat_Left_Th>
+        <name>Left Th</name>
+        <value>0</value>
+    </SliderFloat_Left_Th>
+    <SliderFloat_Right_Th>
+        <name>Right Th</name>
+        <value>640</value>
+    </SliderFloat_Right_Th>
+    <SliderFloat_Top_Th>
+        <name>Top Th</name>
+        <value>0</value>
+    </SliderFloat_Top_Th>
+    <SliderFloat_Bottom_Th>
+        <name>Bottom Th</name>
+        <value>458.4</value>
+    </SliderFloat_Bottom_Th>
+    <SliderInt_Simplification>
+        <name>Simplification</name>
+        <value>5</value>
+    </SliderInt_Simplification>
+    <Toggle_Record>
+        <name>Record</name>
+        <value>0</value>
+    </Toggle_Record>
+    <SliderFloat_dof24_Focal_Depth>
+        <name>dof24 Focal Depth</name>
+        <value>17.15</value>
+    </SliderFloat_dof24_Focal_Depth>
+    <SliderFloat_dof24_Focal_Length>
+        <name>dof24 Focal Length</name>
+        <value>1.75</value>
+    </SliderFloat_dof24_Focal_Length>
+    <SliderFloat_dof24_fstop>
+        <name>dof24 fstop</name>
+        <value>0.72</value>
+    </SliderFloat_dof24_fstop>
+    <SliderFloat_dof24_maxblur>
+        <name>dof24_maxblur</name>
+        <value>1.85</value>
+    </SliderFloat_dof24_maxblur>
+    <Toggle_dof24_show>
+        <name>dof24 show</name>
+        <value>0</value>
+    </Toggle_dof24_show>
+    <SliderFloat_Light_X>
+        <name>Light X</name>
+        <value>-380</value>
+    </SliderFloat_Light_X>
+    <SliderFloat_Light_Y>
+        <name>Light Y</name>
+        <value>-530</value>
+    </SliderFloat_Light_Y>
+    <SliderFloat_Light_Z>
+        <name>Light Z</name>
+        <value>-780</value>
+    </SliderFloat_Light_Z>
+    <SliderFloat_cubeSize_Min>
+        <name>cubeSize Min</name>
+        <value>2</value>
+    </SliderFloat_cubeSize_Min>
+    <SliderFloat_cubeSize_Max>
+        <name>cubeSize Max</name>
+        <value>9</value>
+    </SliderFloat_cubeSize_Max>
+    <SliderFloat_Depth_Far>
+        <name>Depth Far</name>
+        <value>700</value>
+    </SliderFloat_Depth_Far>
+    <SliderFloat_Depth_Near>
+        <name>Depth Near</name>
+        <value>5.5</value>
+    </SliderFloat_Depth_Near>
+</controls>
